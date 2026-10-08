@@ -91,7 +91,7 @@ function Dashboard() {
         <div className="lg:flex justify-between px-8  border-b-2 border-red-600 bg-[#F1F1F1] hidden">
           <div className="flex justify-around lg:gap-20 gap-5">
             <img
-              src="http://erp.invertisuniversity.ac.in:81/assets/images/ilogo.png"
+              src="https://www.invertisuniversity.ac.in/public/frontend/assets/images/logo.png"
               className="w-40 h-18 object-cover p-2 hidden lg:block"
             ></img>
             <img
